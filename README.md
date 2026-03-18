@@ -2,7 +2,7 @@
 
 > **「獵犬不只是兇猛，更在於牠的聽覺與紀律。」**
 
-這是一套為 Google Anthropic / Claude Code 環境量身打造的自定義 Agent 指令系統。它改進自 Burke Holland 的 "Beast Mode"，旨在將強大的 AI 代理轉化為一隻「受控、精準且具備防禦性思考」的開發獵犬。
+這是一套為 Google Anthropic / Claude Code環境量身打造的自定義 Agent 指令系統。它改進自 Burke Holland 的 "Beast Mode"，旨在將強大的 AI 代理轉化為一隻「受控、精準且具備防禦性思考」的開發獵犬。
 
 ![Thinking Hound Mode](https://img.shields.io/badge/Status-Beta-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
@@ -67,4 +67,4 @@
 
 > **開發紀錄**：
 > 本專案誕生於 2026 年，象徵著從「混亂的野獸 (Beast)」向「有紀律的獵犬 (Hound)」的演化。
-> *By Aster Wei & The Antigravity Team*
+> _By Aster Wei & The Antigravity Team_
